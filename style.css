@@ -1,0 +1,237 @@
+.body {
+    
+    margin: 0;
+    
+}
+
+.home{
+    background-image: url(nick-karvounis-Ciqxn7FE4vE-unsplash.jpg);
+background-size: cover;
+    height: 100vh;
+}
+
+
+
+.home-cont{
+
+
+text-align: center;
+
+padding-top: 80px;
+
+color: white;
+
+
+} 
+
+ 
+.home-cont p{  
+    font-size: 40px;
+    margin: 15px  0px;
+}
+
+
+.home-cont h1{
+    margin: 0;
+}
+
+
+.home-cont .btn{
+    padding: 15px  20px;
+
+    border: none;
+    margin: 0px  7px;
+}
+
+
+.home-cont .btn-white{
+    background-color: white;
+    
+    }
+
+
+    
+.home-cont .btn-offwhite{
+    background-color: wheat;
+    
+    }
+
+
+    .home-nav{
+background-color: rgba(0,0,0,0.5);
+
+padding: 10px  20px;
+
+    }
+    .home-nav p{
+color: white;
+
+        font-size: 18px;
+
+        float: left;
+    
+    }
+
+  .home-nav ul{
+      
+float: right;
+
+list-style: none;
+
+
+    }
+
+
+
+    .home-nav ul li{
+    
+        margin: 0px  35px;
+float: left;
+
+    }
+
+.home-nav ul li a{
+text-decoration-line: none;
+color: white;
+
+}
+
+
+
+    .clr{
+        clear: both;
+    }
+
+
+    .chife{
+
+
+
+padding: 20px 0px;
+
+    }
+  
+
+    .chife-img{
+        width: 50%;
+
+       
+    }
+
+
+.chife-img img{
+width: 73%;
+
+float: left;
+
+}
+
+.chife-cont{
+text-align: center;
+width: 50%;
+padding: 70px;
+
+
+float: right;
+}
+
+.clr{clear: both;}
+
+
+.chife-cont h5{
+color: chocolate;
+font-size: 25px;
+
+margin: 0;
+}
+
+.chife-cont h4{
+font-size: 36px;
+
+margin: 10px 0px;
+
+}
+.chife-cont p {
+font-size: 20px;
+    margin: 45px 0pxS;
+}
+
+.chife-cont button{
+    padding: 15px 15px;
+
+    background-color: transparent;
+
+    border: 3px solid;
+}
+
+.container{
+width: 80%;
+
+margin: auto;
+
+}
+
+.semi {
+background-color: rgba(0,0,0,0.8);
+padding: 0px 0px;
+margin: 0px 0px;
+color: white;
+
+display: flex;
+
+gap: 200px;
+
+border: solid 5px;
+border-color: rgb(80, 76, 76);
+
+text-align: center;
+}
+
+.one h3{
+    font-size: 30px;
+}
+
+.one p{
+    font-size: 20px;
+}
+
+.two h3{
+
+font-size: 30px;
+
+}
+.two p{
+    font-size: 20px;
+
+}
+
+.three h3{
+    font-size: 30px;
+}
+.three p{
+    font-size: 20px;
+    
+}
+
+.last-cont{
+    padding: 0px;
+margin: 0px;
+
+text-align: center;
+}
+
+.last h4{
+    font-size: 20px;
+}
+
+.last p{
+    font-size: 16px;
+color: rgba(0,0,0,0.6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icons{
+    font-size: 25px;
+color: rgba(0,0,0,0.8);
+
+}
